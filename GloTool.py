@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# GloTool - 2015-2018
+# GloTool 1.0 - 2015-2018
 # Split Glossika GMS MP3 files into individual sentences, and recombine.
 # Joshua Miller - jtm.gg
 
